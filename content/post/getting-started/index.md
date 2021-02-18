@@ -3,21 +3,17 @@ summary: ""
 draft: false
 authors:
   - admin
-  - 吳恩達
-lastmod: 2020-12-13T00:00:00Z
+lastmod: 2020-12-13T00:00:00.000Z
 title: Hello
 subtitle: ""
-date: 2020-12-13T00:00:00Z
+date: 2020-12-13T00:00:00.000Z
 featured: false
-tags:
-  - Academic
-  - 开源
+tags: []
 categories:
-  - Demo
-  - 教程
+  - Test
 projects: []
 image:
-  caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)"
+  caption: ""
   focal_point: ""
   placement: 2
   preview_only: false
